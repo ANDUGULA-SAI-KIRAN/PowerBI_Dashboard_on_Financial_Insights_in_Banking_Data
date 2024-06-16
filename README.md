@@ -19,7 +19,7 @@ The `Transactions.xlsx` file contains the following columns:
 
 The `AccountDetails.xlsx` file contains the following columns:
 
-1. **AccountNumber**: A unique identifier for each account, corresponding to 'AccountNumber' in `BankingDataset1.xlsx`. (Primary Key)
+1. **AccountNumber**: A unique identifier for each account, corresponding to 'AccountNumber' is 'Primary Key'
 2. **AccountHolder**: The name of the account holder.
 3. **AccountType**: The type of account (e.g., Credit, Loan, Checking).
 4. **Balance**: The current balance of the account.
