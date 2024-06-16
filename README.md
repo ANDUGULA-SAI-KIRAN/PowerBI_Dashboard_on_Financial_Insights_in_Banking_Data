@@ -6,7 +6,7 @@ This document presents the analysis of banking transaction data conducted using 
 
 ### Data Source:
 
-The `BankingDataset1.xlsx` file contains the following columns:
+The `Transactions.xlsx` file contains the following columns:
 
 1. **TransactionID**: A unique identifier for each transaction.
 2. **AccountNumber**: The account number associated with the transaction. (Foreign Key)
@@ -29,38 +29,37 @@ The `AccountDetails.xlsx` file contains the following columns:
 8. **LoanAmount**: The amount of loan associated with the account (if applicable).
 9. **AccountHolderDetails**: Details about account holders - employment sector, years at current residence, and city of residence, etc.
 
-## Key Objectives
-
-### Understand Customer Behavior:
+### Key Objectives
+#### Understand Customer Behavior:
 - Analyze customer transaction patterns to identify spending habits and preferences.
 - Segment customers based on transaction frequency and volume.
 
-### Transaction Analysis:
+#### Transaction Analysis:
 - Track and visualize the volume and value of transactions over time.
 - Identify peak transaction periods and trends across different branches.
 
-### Fraud Detection:
+#### Fraud Detection:
 - Detect unusual transaction patterns that may indicate fraudulent activities.
 - Monitor high-value transactions and flag anomalies for further investigation.
 
-### Performance Metrics:
+#### Performance Metrics:
 - Evaluate the performance of different branches and ATMs.
 - Assess the effectiveness of various banking products and services.
 
 
 
-### **Dashboard Overview**
+## **Dashboard Overview**
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/402d3725-964a-4b84-b093-b3d4010569ad)
 
-#### **Transaction and Balance Analysis: Displays transaction volume and value trends over time.**
+### **Transaction and Balance Analysis: Displays transaction volume and value trends over time.**
 
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/ee1f115a-8177-4239-ade0-0401fc061067)
 
-#### **Credit score,Interest rate and and Loan Analysis: Displays credit score and Loan analysis.**
+### **Credit score,Interest rate and and Loan Analysis: Displays credit score and Loan analysis.**
 
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/6df57140-5c15-4479-9575-b993bf220b0c)
 
-#### **Branch and customer Analysis: Evaluates branch and ATM efficiency and performance.**
+### **Branch and customer Analysis: Evaluates branch and ATM efficiency and performance.**
 
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/01d2f76a-0a62-4188-96bf-6d5cbb40c0ae)
 
