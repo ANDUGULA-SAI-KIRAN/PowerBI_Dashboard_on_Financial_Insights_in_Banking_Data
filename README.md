@@ -29,12 +29,11 @@ This document presents the analysis of banking transaction data conducted using 
 - Assess the effectiveness of various banking products and services.
 
 
-
 ## **Dashboard Overview**
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/402d3725-964a-4b84-b093-b3d4010569ad)
 
 ### **Transaction and Balance Analysis: Displays transaction volume and value trends over time.**
-
+![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/ee1f115a-8177-4239-ade0-0401fc061067)
 ### Insights
 
 #### Transaction Trend over Time - Hourly:
@@ -63,14 +62,66 @@ This document presents the analysis of banking transaction data conducted using 
 - Value of unusual transactions is not very high but those have mainly occurred under "Payment" category.
 
 
-![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/ee1f115a-8177-4239-ade0-0401fc061067)
 
 ### **Credit score,Interest rate and and Loan Analysis: Displays credit score and Loan analysis.**
 
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/6df57140-5c15-4479-9575-b993bf220b0c)
 
+## Insights - Interest Rate, Loan & Credit Score Analysis
+
+### Interest rate and Balance correlation:
+- There is no correlation between interest rate and USD Balance.
+
+### Credit score and loan amount correlation:
+- There is no correlation between Credit score and Loan amount.
+
+### Account age and balance correlation:
+- There is no correlation between Account age and Balance.
+
+### Distribution of credit score among account holder by account type
+- Analysis of credit score ranges and predominant account types:
+  - 300-400: Highest number of Checking account holders.
+  - 800-900: Highest number of Loan account holders.
+  - Others: Highest number of Savings account holders.
+- Insight: Customers with high credit scores tend to get more loans, though their count is relatively small. Savings account holders have a wide range of credit scores, while the lowest credit scores belong to Checking account holders.
+
+### Distribution of Interest rate among account holder by account type:
+- Most account holders have an interest rate between 1% and 3%.
+
+### Loan amount by City and Sector:
+- City Observation:
+  - London has the highest loan amounts.
+  - Followed by Berlin, Sydney, and other cities.
+- Sector Observation:
+  - Technology sector has the highest loan amounts.
+  - Followed by Education, Healthcare, and other sectors.
+
+
+
 ### **Branch and customer Analysis: Evaluates branch and ATM efficiency and performance.**
 
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/01d2f76a-0a62-4188-96bf-6d5cbb40c0ae)
 
+### Insights 
+#### Branch Analysis:
+- Branch 479 has the highest number of 8 transactions.
+
+#### Customer Risk Assessment:
+- High-Risk Customers: 9 customers (risk score > 10).
+- Low-Risk Customers: 680 customers (risk score < 1).
+
+#### Sector Transaction Behavior:
+- Technology Sector: Customers in this sector have the highest transaction volume, and the amount is 884k.
+- Finance Sector: Customers in this sector have the lowest transaction volume.
+
+#### Demographic Transaction Behavior:
+- Sydney has the highest transaction count with 226 transactions.
+- New York and London have the same number of transactions, but the amount of transactions is greater for London.
+
+#### Branch Performance:
+- Branch 57 is identified as the highest-performing branch.
+- Highlight the top five performing branches using a funnel chart.
+
+#### Loyalty Analysis:
+- The longest association with the bank for the most loyal customers is 1649 days.
 
