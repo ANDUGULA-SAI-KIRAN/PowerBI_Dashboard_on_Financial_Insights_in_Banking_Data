@@ -37,29 +37,29 @@ This document presents the analysis of banking transaction data conducted using 
 ### Insights
 
 #### Transaction Trend over Time - Hourly:
-- Highest transaction volume occurs at 11am and 3pm. 
-- Highest transactions by amount have occurred at 2am and 11am. 
+- Highest transaction volume occurs at **11am and 3pm.** 
+- Highest transactions by amount have occurred at **2am and 11am. **
 
 #### Transaction Trend over Time - Quarterly:
-- No wide fluctuations in the transaction volume over time. 
+- **No wide fluctuations** in the transaction volume over time. 
 - Trend in credit transactions is opposite to the trend in debit transactions. 
 
 #### Historical Trend in Transaction Volume and Forecast for Next 1 Quarter:
-- Highest transaction volume occurred in the second half of the calendar year, i.e. from July to September. 
+- **Highest transaction volume** occurred in the **second half of the calendar year, i.e. from July to September. **
 - Not much fluctuation in the trend of transaction volume.
-- Forecast for next quarter indicates a slight reduction in the transaction volume.
+**- Forecast for next quarter indicates a slight reduction in the transaction volume.**
 
 #### Average Account Balance:
-- Highest average account balance is of "Savings" account type.
+- **Highest average account balance** is of** "Savings" account type.**
 
 #### High Value Transactions:
-- High-value transactions have been defined as transactions > USD 5000. 
+-**High-value transactions** have been defined as **transactions > USD 5000.**
 - 2.5% of total transactions are unusual (or fraudulent) high-value transactions.
-- Total number of High-Value Transactions are lesser than Regular transactions.
+- **Total number of High-Value Transactions are lesser than Regular transactions.**
 
 #### Rare Transaction Types:
 - Rare transaction types are those for which the description was other than Transfer, Withdrawal, Deposit, and Payment.
-- Value of unusual transactions is not very high but those have mainly occurred under "Payment" category.
+- **Value of unusual transactions is not very high but those have mainly occurred under "Payment" category.**
 
 
 
@@ -80,20 +80,20 @@ This document presents the analysis of banking transaction data conducted using 
 
 ### Distribution of credit score among account holder by account type
 - Analysis of credit score ranges and predominant account types:
-  - 300-400: Highest number of Checking account holders.
-  - 800-900: Highest number of Loan account holders.
-  - Others: Highest number of Savings account holders.
-- Insight: Customers with high credit scores tend to get more loans, though their count is relatively small. Savings account holders have a wide range of credit scores, while the lowest credit scores belong to Checking account holders.
+  - **300-400:** Highest number of **Checking** account holders.
+  - **800-900:** Highest number of **Loan** account holders.
+  - **Others:** Highest number of **Savings** account holders.
+- **Insight: Customers with high credit scores tend to get more loans, though their count is relatively small. Savings account holders have a wide range of credit scores, while the lowest credit scores belong to Checking account holders.**
 
 ### Distribution of Interest rate among account holder by account type:
-- Most account holders have an interest rate between 1% and 3%.
+- Most account holders have an interest rate between **1% and 3%**.
 
 ### Loan amount by City and Sector:
-- City Observation:
-  - London has the highest loan amounts.
+- **City Observation:**
+  - **London** has the **highest loan amounts.**
   - Followed by Berlin, Sydney, and other cities.
-- Sector Observation:
-  - Technology sector has the highest loan amounts.
+- **Sector Observation:**
+  - **Technology** sector has the **highest loan amounts.**
   - Followed by Education, Healthcare, and other sectors.
 
 
@@ -104,24 +104,24 @@ This document presents the analysis of banking transaction data conducted using 
 
 ### Insights 
 #### Branch Analysis:
-- Branch 479 has the highest number of 8 transactions.
+- **Branch 479** has the highest number of **8 transactions.**
 
 #### Customer Risk Assessment:
-- High-Risk Customers: 9 customers (risk score > 10).
-- Low-Risk Customers: 680 customers (risk score < 1).
+- **High-Risk Customers:** 9 customers (risk score > 10).
+- **Low-Risk Customers:** 680 customers (risk score < 1).
 
 #### Sector Transaction Behavior:
-- Technology Sector: Customers in this sector have the highest transaction volume, and the amount is 884k.
-- Finance Sector: Customers in this sector have the lowest transaction volume.
+- **Technology Sector:** Customers in this sector have the highest transaction volume, and the amount is **884k**.
+- **Finance Sector:** Customers in this sector have the **lowest transaction volume.**
 
 #### Demographic Transaction Behavior:
-- Sydney has the highest transaction count with 226 transactions.
-- New York and London have the same number of transactions, but the amount of transactions is greater for London.
+- **Sydney** has the highest transaction count with **226 transactions.**
+- **New York** and **London** have the same number of transactions, but the amount of transactions is greater for London.
 
 #### Branch Performance:
-- Branch 57 is identified as the highest-performing branch.
+- **Branch 57** is identified as the highest-performing branch.
 - Highlight the top five performing branches using a funnel chart.
 
 #### Loyalty Analysis:
-- The longest association with the bank for the most loyal customers is 1649 days.
+- The longest association with the bank for the most loyal customers is **1649 days.**
 
