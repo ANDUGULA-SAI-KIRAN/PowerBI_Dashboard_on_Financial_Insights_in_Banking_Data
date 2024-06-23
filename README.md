@@ -32,9 +32,9 @@ This document presents the analysis of banking transaction data conducted using 
 ## **Dashboard Overview**
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/402d3725-964a-4b84-b093-b3d4010569ad)
 
-### **Transaction and Balance Analysis: Displays transaction volume and value trends over time.**
+## **Transaction and Balance Analysis: Displays transaction volume and value trends over time.**
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/ee1f115a-8177-4239-ade0-0401fc061067)
-### Insights
+### **Insights**
 
 #### Transaction Trend over Time - Hourly:
 - Highest transaction volume occurs at **11am and 3pm.** 
@@ -63,11 +63,11 @@ This document presents the analysis of banking transaction data conducted using 
 
 
 
-### **Credit score,Interest rate and and Loan Analysis: Displays credit score and Loan analysis.**
+## **Credit score,Interest rate and and Loan Analysis: Displays credit score and Loan analysis.**
 
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/6df57140-5c15-4479-9575-b993bf220b0c)
 
-## Insights - Interest Rate, Loan & Credit Score Analysis
+## **Insights** 
 
 ### Interest rate and Balance correlation:
 - There is no correlation between interest rate and USD Balance.
@@ -98,11 +98,11 @@ This document presents the analysis of banking transaction data conducted using 
 
 
 
-### **Branch and customer Analysis: Evaluates branch and ATM efficiency and performance.**
+## **Branch and customer Analysis: Evaluates branch and ATM efficiency and performance.**
 
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/01d2f76a-0a62-4188-96bf-6d5cbb40c0ae)
 
-### Insights 
+### **Insights** 
 #### Branch Analysis:
 - **Branch 479** has the highest number of **8 transactions.**
 
