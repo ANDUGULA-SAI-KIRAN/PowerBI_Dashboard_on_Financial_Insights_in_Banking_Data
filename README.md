@@ -35,6 +35,34 @@ This document presents the analysis of banking transaction data conducted using 
 
 ### **Transaction and Balance Analysis: Displays transaction volume and value trends over time.**
 
+### Insights
+
+#### Transaction Trend over Time - Hourly:
+- Highest transaction volume occurs at 11am and 3pm. 
+- Highest transactions by amount have occurred at 2am and 11am. 
+
+#### Transaction Trend over Time - Quarterly:
+- No wide fluctuations in the transaction volume over time. 
+- Trend in credit transactions is opposite to the trend in debit transactions. 
+
+#### Historical Trend in Transaction Volume and Forecast for Next 1 Quarter:
+- Highest transaction volume occurred in the second half of the calendar year, i.e. from July to September. 
+- Not much fluctuation in the trend of transaction volume.
+- Forecast for next quarter indicates a slight reduction in the transaction volume.
+
+#### Average Account Balance:
+- Highest average account balance is of "Savings" account type.
+
+#### High Value Transactions:
+- High-value transactions have been defined as transactions > USD 5000. 
+- 2.5% of total transactions are unusual (or fraudulent) high-value transactions.
+- Total number of High-Value Transactions are lesser than Regular transactions.
+
+#### Rare Transaction Types:
+- Rare transaction types are those for which the description was other than Transfer, Withdrawal, Deposit, and Payment.
+- Value of unusual transactions is not very high but those have mainly occurred under "Payment" category.
+
+
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/PowerBI_Dashboard_on_Financial_Insights_in_Banking_Data/assets/143734802/ee1f115a-8177-4239-ade0-0401fc061067)
 
 ### **Credit score,Interest rate and and Loan Analysis: Displays credit score and Loan analysis.**
